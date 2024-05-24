@@ -55,7 +55,7 @@
  ● 17- Parcerias e Meios de Implementação
  
 
-## Integrantes: <a href="https://github.com/nicollysoarez)/">Nicolly Soares</a>, <a href="https://github.com/brunosr9)/">Bruno Ribeiro</a>, <a href="https://github.com/R4cardo/">Ricardo Tetsuya</a>
+## Integrantes: <a href="https://www.linkedin.com/in/nicolly-silva-soares-10b627171/">Nicolly Soares</a>, <a href="https://github.com/brunosr9">Bruno Ribeiro</a>, <a href="https://github.com/R4cardo">Ricardo Tetsuya</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Rosetti</a>, <a href="https://www.linkedin.com/in/adriano-valente-534576135/">Adriano Valente</a>, <a href="https://www.linkedin.com/in/fabiano-on%C3%A7a-3214a12/">Fabiano Onça</a>
 
