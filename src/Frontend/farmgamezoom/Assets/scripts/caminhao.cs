@@ -32,7 +32,7 @@ public class caminhao : MonoBehaviour
     IEnumerator saida_caminhao()
     {
 
-        yield return new WaitForSeconds(60);
+        yield return new WaitForSeconds(30);
         destination = final_destination;
     }
     void GameOver()
